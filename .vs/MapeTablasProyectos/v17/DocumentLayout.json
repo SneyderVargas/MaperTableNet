@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jsvargas\\source\\repos\\MapeTablasProyectos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE0D162-50EA-4139-A5FB-1D333DEFD84C}|MapeTablasProyectos\\MapeTablasProyectos.csproj|c:\\users\\jsvargas\\source\\repos\\mapetablasproyectos\\mapetablasproyectos\\modelssc\\estacionessurga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE0D162-50EA-4139-A5FB-1D333DEFD84C}|MapeTablasProyectos\\MapeTablasProyectos.csproj|solutionrelative:mapetablasproyectos\\modelssc\\estacionessurga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE0D162-50EA-4139-A5FB-1D333DEFD84C}|MapeTablasProyectos\\MapeTablasProyectos.csproj|c:\\users\\jsvargas\\source\\repos\\mapetablasproyectos\\mapetablasproyectos\\modelssc\\municipi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE0D162-50EA-4139-A5FB-1D333DEFD84C}|MapeTablasProyectos\\MapeTablasProyectos.csproj|solutionrelative:mapetablasproyectos\\modelssc\\municipi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE0D162-50EA-4139-A5FB-1D333DEFD84C}|MapeTablasProyectos\\MapeTablasProyectos.csproj|c:\\users\\jsvargas\\source\\repos\\mapetablasproyectos\\mapetablasproyectos\\modelssc\\espcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE0D162-50EA-4139-A5FB-1D333DEFD84C}|MapeTablasProyectos\\MapeTablasProyectos.csproj|solutionrelative:mapetablasproyectos\\modelssc\\espcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE0D162-50EA-4139-A5FB-1D333DEFD84C}|MapeTablasProyectos\\MapeTablasProyectos.csproj|c:\\users\\jsvargas\\source\\repos\\mapetablasproyectos\\mapetablasproyectos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DBE0D162-50EA-4139-A5FB-1D333DEFD84C}|MapeTablasProyectos\\MapeTablasProyectos.csproj|solutionrelative:mapetablasproyectos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Municipi.cs",
+              "DocumentMoniker": "C:\\Users\\jsvargas\\source\\repos\\MapeTablasProyectos\\MapeTablasProyectos\\modelssc\\Municipi.cs",
+              "RelativeDocumentMoniker": "MapeTablasProyectos\\modelssc\\Municipi.cs",
+              "ToolTip": "C:\\Users\\jsvargas\\source\\repos\\MapeTablasProyectos\\MapeTablasProyectos\\modelssc\\Municipi.cs",
+              "RelativeToolTip": "MapeTablasProyectos\\modelssc\\Municipi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:27:20.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstacionesSurga.cs",
+              "DocumentMoniker": "C:\\Users\\jsvargas\\source\\repos\\MapeTablasProyectos\\MapeTablasProyectos\\modelssc\\EstacionesSurga.cs",
+              "RelativeDocumentMoniker": "MapeTablasProyectos\\modelssc\\EstacionesSurga.cs",
+              "ToolTip": "C:\\Users\\jsvargas\\source\\repos\\MapeTablasProyectos\\MapeTablasProyectos\\modelssc\\EstacionesSurga.cs",
+              "RelativeToolTip": "MapeTablasProyectos\\modelssc\\EstacionesSurga.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:04:23.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EspContext.cs",
+              "DocumentMoniker": "C:\\Users\\jsvargas\\source\\repos\\MapeTablasProyectos\\MapeTablasProyectos\\modelssc\\EspContext.cs",
+              "RelativeDocumentMoniker": "MapeTablasProyectos\\modelssc\\EspContext.cs",
+              "ToolTip": "C:\\Users\\jsvargas\\source\\repos\\MapeTablasProyectos\\MapeTablasProyectos\\modelssc\\EspContext.cs",
+              "RelativeToolTip": "MapeTablasProyectos\\modelssc\\EspContext.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAlwI4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:33:09.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jsvargas\\source\\repos\\MapeTablasProyectos\\MapeTablasProyectos\\appsettings.json",
+              "RelativeDocumentMoniker": "MapeTablasProyectos\\appsettings.json",
+              "ToolTip": "C:\\Users\\jsvargas\\source\\repos\\MapeTablasProyectos\\MapeTablasProyectos\\appsettings.json",
+              "RelativeToolTip": "MapeTablasProyectos\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-14T14:31:48.153Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
